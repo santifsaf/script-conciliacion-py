@@ -17,12 +17,9 @@ Compara cada comprobante y lo clasifica automáticamente en una de estas categor
 - 🟥 Solo en AFIP  
 - 🟦 Solo en el sistema  
 
-Exporta los resultados a un Excel con solapas separadas según su clasificación.
+Exporta los resultados a un Excel con solapas separadas y celdas coloreadas según su clasificación.
 
-Si falta algún dato clave en AFIP → va a **Solo en el SISTEMA**.  
-Si falta algún dato clave en el sistema → va a **Solo en AFIP**.
-
-Incluye una solapa “Mis Comprobantes Recibidos” con los datos tal como figuran en AFIP + una columna "condición" para una comoda revision de los resultados. Las filas están coloreadas automáticamente según el tipo de discrepancia.
+Incluye una solapa “Mis Comprobantes Recibidos” con los datos tal como figuran en AFIP + una columna "condición" para una comoda revision de los resultados. 
 
 ---
 
