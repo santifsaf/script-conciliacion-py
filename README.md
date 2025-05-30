@@ -31,7 +31,6 @@ Incluye una solapa “Mis Comprobantes Recibidos” con los datos tal como figur
 - Python  
 - pandas  
 - openpyxl
-- 
 
 > **ACLARACIÓN:** Los datos utilizados son ficticios. No representan información real.
 
